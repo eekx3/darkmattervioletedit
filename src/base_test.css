@@ -156,12 +156,12 @@ ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
 }
 
 ul[data-list-id='guildsnav']>div[dir] {
-	padding-top: 18px;
+	padding-top: 28px;
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
-	height: 40px !important;
+	height: 80px !important;
 }
 
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
@@ -170,7 +170,7 @@ ul[id^="folder-items-"] {
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
-	width: 40px;
+	width: 10px;
 	margin-left: -5px;
 	border-radius: 20px;
 }
@@ -189,8 +189,8 @@ span[class^="expandedFolderBackground-"] {
 .wrapper-28eC3z,
 [data-list-id='guildsnav'] [data-dnd-name] > div,
 [data-list-id='guildsnav'] svg[width="48"] {
-	width: 40px;
-	height: 40px;
+	width: 80px;
+	height: 80px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
