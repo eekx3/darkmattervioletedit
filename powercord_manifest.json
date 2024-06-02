@@ -1,9 +1,9 @@
 {
-    "name": "Dark Matter",
+    "name": "Dark Matter Violet",
     "description": "A cold, dark & frosty theme.",
-    "version": "3.0",
-    "author": "Tropical#8908, Hammock#3110",
-    "theme": "DarkMatter.theme.css",
+    "version": "1.0",
+    "author": " ._lillium_., prip0305",
+    "theme": "DarkMatterViolet.css",
     "consent": ["ext_listing"],
     "license": "MIT"
 }
