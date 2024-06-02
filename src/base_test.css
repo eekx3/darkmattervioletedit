@@ -156,12 +156,12 @@ ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
 }
 
 ul[data-list-id='guildsnav']>div[dir] {
-	padding-top: 28px;
+	padding-top: 18px;
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
 ul[data-list-id='guildsnav'] [class^="pill-"]>div {
-	height: 80px !important;
+	height: 32px !important;
 }
 
 ul[data-list-id='guildsnav'] div[style*="height: 56"],
