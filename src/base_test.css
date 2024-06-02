@@ -379,7 +379,7 @@ div[class^='sidebar-']>section {
 	--background-primary: rgba(var(--dm-white), 0.07);
 	--background-secondary: rgba(var(--dm-white), 0.1);
 	--background-secondary-alt: rgba(var(--md-black), 0.95);
-	margin-bottom: 10px;
+	margin-bottom: 70px;
 }
 
 div[class^='sidebar-']>section>div:last-child {
