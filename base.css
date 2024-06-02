@@ -19,7 +19,7 @@ button {
 	--font-primary: 'Karla', sans-serif;
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
-	--avatar-size: 64px;
+	--avatar-size: 32px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
 	--background-solid: #161921;
@@ -76,9 +76,6 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 ::selection {
 	background-color: rgba(var(--accent-alt), 0.5);
 }
-
-
-/* Scrollbars */
 
  ::-webkit-scrollbar-thumb {
 	border-radius: 8px !important;
@@ -184,9 +181,9 @@ span[class^="expandedFolderBackground-"] {
 
 .wrapper-28eC3z,
 [data-list-id='guildsnav'] [data-dnd-name] > div,
-[data-list-id='guildsnav'] svg[width="64"] {
-	width: 64px;
-	height: 64px;
+[data-list-id='guildsnav'] svg[width="48"] {
+	width: 40px;
+	height: 40px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
