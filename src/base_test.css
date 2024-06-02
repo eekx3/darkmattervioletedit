@@ -18,7 +18,7 @@ button {
 :root {
 	--font-primary: 'Karla', sans-serif;
 	--font-display: var(--font-primary) !important;
-	/* Dark Matter Variables */
+	--violet-color; #7f00ff;
 	--avatar-size: 64px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
@@ -762,3 +762,10 @@ div[class*="footerSeparator"] {
 li[class^="card-"]>div[class^="container-"] {
     background: var(--background-floating)
 }
+
+
+/*idk*/
+
+.navButtonActive__0c878 {
+  background-color: var(--darkplus-bg);
+  color: var(--violet-color);
