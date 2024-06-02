@@ -764,15 +764,33 @@ li[class^="card-"]>div[class^="container-"] {
 }
 
 
-/*idk*/
+/*testin*/
+olorStandard-21JIj7 {
+  color: var(--violet-color);
+}
+.unicodeShortcut__01a83 {
+  color: var(--violet-color);
+}
+.unicodeShortcut__01a83:hover {
+  color: var(--violet-color);
+}
+.categoryIcon_d0a396 {
+  color: var(--violet-color);
+}
+.header__8e271 {
+  color: var(--violet-color);
+}
+.iconBadge-3qSJIw.participating-1NvRVd {
+  background-color: var(--violet-color);
+}
+.botTagRegular_c89c9a {
+  color: var(--darkplus-sec);
+  background-color: var(--violet-color);
+}
 
-.navButtonActive__0c878 {
-  background-color: var(--darkplus-bg);
-  color: var(--violet-color);
+.field__69fa0 > div > div > div {
+  filter: blur(5px);
 }
-.navButton_b588d0 {
-  color: var(--violet-color);
-}
-.navButton_b588d0:hover {
-  color: var(--violet-color);
+.field__69fa0 > div > div > div:hover {
+  filter: blur(0);
 }
