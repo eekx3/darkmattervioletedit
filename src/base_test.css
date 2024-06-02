@@ -769,3 +769,10 @@ li[class^="card-"]>div[class^="container-"] {
 .navButtonActive__0c878 {
   background-color: var(--darkplus-bg);
   color: var(--violet-color);
+}
+.navButton_b588d0 {
+  color: var(--violet-color);
+}
+.navButton_b588d0:hover {
+  color: var(--violet-color);
+}
