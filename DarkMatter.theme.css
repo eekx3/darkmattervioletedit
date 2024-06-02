@@ -1,0 +1,22 @@
+/**
+ * @name Dark Matter
+ * @author Tropical#8908, Hammock#3110
+ * @Edited ._lillium_.
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --home-image: url('https://media.tenor.com/zGIMaKCYD-EAAAAi/happy.gif');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 127, 0, 255;
+    --accent-alt: 127, 0, 255;
+}
