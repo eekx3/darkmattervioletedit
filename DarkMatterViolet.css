@@ -12,7 +12,6 @@
 :root {
     --avatar-size: 64px;
     --background-image: url('https://i.imgur.com/7SbtKvw.png');
-   /* --home-image: url('https://media.discordapp.net/attachments/1175285647779582014/1246624392327331890/image2.png?ex=665d10f0&is=665bbf70&hm=4e8b420fd4b95930f84773b432786a2b86a54c1687d12f77ce1985955b6e75af&=&format=webp&quality=lossless&width=350&height=350'); */
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
