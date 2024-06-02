@@ -156,7 +156,7 @@ ul[data-list-id='guildsnav'] ::-webkit-scrollbar {
 }
 
 ul[data-list-id='guildsnav']>div[dir] {
-	padding-top: 18px;
+	padding-top: 38px;
 }
 
 ul[data-list-id='guildsnav'] [class^="pill-"],
@@ -189,8 +189,8 @@ span[class^="expandedFolderBackground-"] {
 .wrapper-28eC3z,
 [data-list-id='guildsnav'] [data-dnd-name] > div,
 [data-list-id='guildsnav'] svg[width="48"] {
-	width: 40px;
-	height: 40px;
+	width: 48px;
+	height: 48px;
 }
 
 div[data-list-item-id="guildsnav___home"] {
