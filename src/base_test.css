@@ -81,7 +81,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 /* Scrollbars */
 
 ::-webkit-scrollbar {
-	width: 8px !important;
+	width: 3px !important;
 }
 
  ::-webkit-scrollbar-thumb {
@@ -171,7 +171,7 @@ ul[id^="folder-items-"] {
 
 ul[data-list-id='guildsnav'] [class^="pill-"] span {
 	width: 10px;
-	margin-left: -5px;
+	margin-left: 0px;
 	border-radius: 20px;
 }
 
