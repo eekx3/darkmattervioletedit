@@ -946,7 +946,7 @@ button[aria-label="Send a gift"] {
 }
 .wordmark_a934d8:after {
   filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: url("data:image/svg+xml,%3Csvg id='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='400' height='40' viewBox='0 0 400 25'%3E%3Cg id='svgg'%3E%3Ctext x='0' y='20' font-family='Arial' font-size='50' fill='%23bcbcbc'%3EI love you%3C/text%3E%3C/g%3E%3C/svg%3E");
+  content: url("data:image/svg+xml,%3Csvg id='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='200' height='40' viewBox='0 0 400 25'%3E%3Cg id='svgg'%3E%3Ctext x='0' y='20' font-family='Arial' font-size='50' fill='%23bcbcbc'%3EI love you%3C/text%3E%3C/g%3E%3C/svg%3E");
 }
 
 
