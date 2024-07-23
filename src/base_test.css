@@ -42,9 +42,6 @@
 .scroller_c47fa9.thin_eed6a8.scrollerBase-_bVAAt.fade-1R6FHN {
   background-color: var(--darkplus-bg);
 }
-.div.barFill_c7a159 {
-  background-color: var(--darkplus-bg);
-}
 .panel_bf1a22.activityPanel_a4d4d9 {
   background-color: var(--darkplus-bg);
 }
@@ -1577,4 +1574,11 @@ button[aria-label="Send a gift"] {
 
 .none-2Eo-qx::-webkit-scrollbar {
 	display: none !important;
+}
+ ::-webkit-scrollbar-track {
+	visibility: visible !important;
+	border-radius: 8px !important;
+	border: 3px solid transparent !important;
+	background-color: rgba(0, 0, 0, 0.3) !important;
+	background-clip: padding-box !important;
 }
