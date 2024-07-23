@@ -384,7 +384,7 @@
   filter: drop-shadow(0 0 5px);
   color: var(--darkplus-sec);
 }
-.avatar_f9f2ca:hover.clickable_f9f2ca:hover {
+.avatar_f9f2ca:.clickable_f9f2ca: {
   filter: drop-shadow(0 0 8px);
   color: var(--darkplus-sec);
   transform: scale(1.2) rotate(360deg); 
@@ -789,7 +789,7 @@ button.button_f67531 {
 }
 .wrapper__8436d.selected_ae80f7 .childWrapper_a6ce15,
 .wrapper__8436d:hover .childWrapper_a6ce15 {
-  background-color: var(--darkplus-links);
+  background-color: var(--darkplus-bg);
   color: var(--darkplus-bg);
 }
 #bd-pub-button {
