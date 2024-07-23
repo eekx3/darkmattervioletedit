@@ -1568,7 +1568,7 @@ button[aria-label="Send a gift"] {
 	visibility: visible !important;
 	border-radius: 8px !important;
 	border: 3px solid transparent !important;
-	background-color: rgba(0, 0, 0, 0.3) !important;
+	background-color: var(--darkplus-bg) !important;
 	background-clip: padding-box !important;
 }
 
@@ -1579,7 +1579,7 @@ button[aria-label="Send a gift"] {
 	visibility: visible !important;
 	border-radius: 8px !important;
 	border: 3px solid transparent !important;
-	background-color: rgba(0, 0, 0, 0.3) !important;
+	background-color: var(--darkplus-bg) !important;
 	background-clip: padding-box !important;
 }
 div[aria-label*="_SETTINGS"] aside>div::-webkit-scrollbar-track {
