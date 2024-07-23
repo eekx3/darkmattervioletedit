@@ -1,7 +1,7 @@
 :root {
-  --darkplus-bg: #161921;
-  --darkplus-bg2: #101218;
-  --darkplus-sec: #0c0e12;
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #bb86fc;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
