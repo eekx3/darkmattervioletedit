@@ -939,7 +939,10 @@ button[aria-label="Send a gift"] {
 .wordmark_a934d8 > svg {
   display: none;
 }
-
+.wordmark_a934d8:after {
+  filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
+  content: Shadow Wizar Money Gang;
+}
 .channelName-3KPsGw,
 .subtitle_d8bfb3 {
   color: var(--darkplus-sec);
