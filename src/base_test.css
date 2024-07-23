@@ -364,22 +364,6 @@
   background-color: var(--darkplus-bg2);
 }
 
-.contents_f9f2ca .messageContent_f9f2ca, .container_b558d0 {
-  background-color: var(--darkplus-bg2);
-  display: inline-block;
-  max-width: 650px;
-  width: -webkit-fit-content;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0;
-  padding: 8px;
-  border-radius: 15px;
-}
-
-.messageContent_f9f2ca:empty {
-  display: none !important;
-}
-
 .markup_d6076c blockquote, .markup_d6076c pre {
   max-width: 100%;
 }
