@@ -138,7 +138,11 @@
 .iconBadge_e44302 {
   background-color: var(--darkplus-sec);
 }
+/*    Spotify Bar   */
 .barFill_c7a159 {
+  background-color: var(--darkplus-sec);
+}
+.categoryFadedBpurple_af1167 {
   background-color: var(--darkplus-sec);
 }
 .container_b2ca13 .button_f67531:nth-child(1) .contents-3ca1mk path {
