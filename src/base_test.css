@@ -138,6 +138,9 @@
 .iconBadge_e44302 {
   background-color: var(--darkplus-sec);
 }
+.barFill_c7a159 {
+  background-color: var(--darkplus-sec);
+}
 .container_b2ca13 .button_f67531:nth-child(1) .contents-3ca1mk path {
   fill: var(--darkplus-sec);
 }
