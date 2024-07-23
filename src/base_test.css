@@ -115,6 +115,13 @@
 .wrapper_cd82a7 .inset_c0f6a6 {
   background-color: var(--darkplus-bg);
 }
+/* added now */
+.result_bad108:before {
+  background-color: var(--darkplus-sec);
+}
+.mentioned_d5deea:hover {
+  background-color: rgba(var(--darkplus-sec), 0.2) !important;
+}
 .wrapper_cd82a7 .section_cd82a7 {
   background-color: var(--darkplus-links);
 }
