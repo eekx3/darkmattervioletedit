@@ -1,0 +1,25 @@
+/*
+  * @name joe
+  * @author joe
+  * @version joe
+*/
+
+@import url('https://raw.githubusercontent.com/eekx3/darkmattervioletedit/main/src/base_test.css');
+
+:root {
+  --avatar-size: 64px;
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #bb86fc;
+  --darkplus-links: #cdaef3;
+  --darkplus-home-icon: url(https://i.ibb.co/6rnwVhV/imagem-2024-07-01-181914332.png);
+  --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
+  --accent: 127, 0, 255;
+  --accent-alt: 127, 0, 255;
+}
