@@ -1587,7 +1587,7 @@ div[aria-label*="_SETTINGS"] aside>div::-webkit-scrollbar-track {
 }
 
 .bd-addon-list {
-	--background-secondary: var(--background-solid);
-	--background-secondary-alt: var(--background-solid-dark);
+	--background-secondary: var(--darkplus-bg);
+	--background-secondary-alt: var(--darkplus-bg);
 }
 
