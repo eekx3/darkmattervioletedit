@@ -937,7 +937,7 @@ button[aria-label="Send a gift"] {
   height: calc(100% + 4px);
   top: -4px;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 200;
   font-family: "Lato";
   color: var(--darkplus-sec);
 }
