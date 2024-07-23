@@ -1,8 +1,9 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
+  --darkplus-sec: #7f00ff; /* Cor principal alterada */
   --darkplus-links: #cdaef3;
+  --darkplus-home-icon: url(https://devevil.com/betterdiscord/dark%2b-logo.png);
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
@@ -194,17 +195,15 @@
 
 .winButton_a934d8,
 .VoiceChatNotifications-button-icon,
-.circleIconButton_db6521.selected_db6521,
-.activeButtonChild_a06035,
-.lookFilled-yCfaCM.colorBrand-I6CyqQ,
-.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover,
+.circleIconButton_db6521,
+.lookLink-15mFoz.colorLink-1Md3RZ,
+.header_c47fa9,
+.footer_c47fa9,
+.fieldList_b69b77,
+.headerText_c47fa9,
 .size14-3fJ-ot,
 .channelTextArea_a7d72e,
-.fieldList_b69b77,
-.downloadButton__3fb6d,
-.downloadButton__3fb6d:hover,
-.downloadButton__3fb6d,
-.lookFilled-yCfaCM.colorBrand-I6CyqQ:disabled,
+.form_a7d72e,
 .scrollableContainer_d0696b,
 .filename_f82cc7,
 .fieldList_b69b77,
