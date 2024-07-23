@@ -15,10 +15,6 @@
 .container_e40c16 {
   background-color: var(--darkplus-bg);
 }
-.bg_d4b6c5,
-.div.barFill_c7a159 {
-  background-color: var(--darkplus-bg);
-}
 .bg_d4b6c5 {
   background-color: var(--darkplus-bg);
 }
@@ -44,6 +40,9 @@
   border-radius: 20px;
 }
 .scroller_c47fa9.thin_eed6a8.scrollerBase-_bVAAt.fade-1R6FHN {
+  background-color: var(--darkplus-bg);
+}
+.div.barFill_c7a159 {
   background-color: var(--darkplus-bg);
 }
 .panel_bf1a22.activityPanel_a4d4d9 {
