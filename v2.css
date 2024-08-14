@@ -1,15 +1,15 @@
-/*
-  * @name Lillium, Prip
-  * @author DevEvil#8745
-  * @version 1.0.0
+/**
+ * @name Dark+
+ * @author Lillium, Prip
+ * @description v0.5
 */
 
-@import url('https://raw.githubusercontent.com/eekx3/darkmattervioletedit/main/src/base_test.css');
+@import url('https://raw.githubusercontent.com/eekx3/darkmattervioletedit/main/src/V2.css');
 
 :root {
   --avatar-size: 64px;
-  --darkplus-bg: #212121;
-  --darkplus-bg2: #302f2f;
+  --darkplus-bg: #090a0e;
+  --darkplus-bg2: #13151d;
   --darkplus-sec: #bb86fc;
   --darkplus-links: #cdaef3;
   --darkplus-home-icon: url(https://i.ibb.co/6rnwVhV/imagem-2024-07-01-181914332.png);
